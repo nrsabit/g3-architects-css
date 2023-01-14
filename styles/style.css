@@ -34,7 +34,6 @@ header{
     background-color: #ff900e1a;
     padding-top: 50px;
     padding-bottom: 45px;
-    display: none;
 }
 
 /* ------ Navbar Styles ------ */
@@ -351,10 +350,8 @@ header{
     }
 
     /* --- Copyright Section Styles --- */
-    .copyright{
-        padding: 35px;
-    }
     .copyright-text{
         font-size: 16px;
+        margin: 0 10px;
     }
 }
