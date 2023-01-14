@@ -346,4 +346,12 @@ header{
     .client-title{
         font-size: 24px;
     }
+
+    /* --- Copyright Section Styles --- */
+    .copyright{
+        padding: 35px;
+    }
+    .copyright-text{
+        font-size: 16px;
+    }
 }
