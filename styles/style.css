@@ -350,6 +350,9 @@ header{
     }
 
     /* --- Copyright Section Styles --- */
+    .copyright{
+        margin-bottom: 0px;
+    }
     .copyright-text{
         font-size: 16px;
         margin: 0 10px;
